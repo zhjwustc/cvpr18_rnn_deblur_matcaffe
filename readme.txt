@@ -10,6 +10,6 @@ How to use
 3. Run train.m in ./matlab/exp
 4. testing model and scripts will come soon.
 
-Thanks Sifei Liu to provide his matcaffe code from [1] and spatial rnn implementation from [2]
+Thanks Sifei Liu to provide her matcaffe code from [1] and spatial rnn implementation from [2]
 [1] Sifei Liu and et. al. Multi-Objective Convolutional Learning for Face Labeling, CVPR 2015
 [2] Sifei Liu and et. al. Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network, ECCV 2016 
