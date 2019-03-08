@@ -6,8 +6,8 @@ How to use
 1. Please install matcaffe by
 (1) compile caffe: make all -j8.
 (2) compile matcaffe: make matcaffe.
-2. Put training data into: ./matlab/exp/data. There are a few images in that folder already.
-3. Run train.m in ./matlab/exp
+2. Put training data into: ./matlab/train/data. There are a few images in that folder already.
+3. Run train.m in ./matlab/train
 4. testing model and scripts will come soon.
 
 Thanks Sifei Liu to provide her matcaffe code from [1] and spatial rnn implementation from [2]
