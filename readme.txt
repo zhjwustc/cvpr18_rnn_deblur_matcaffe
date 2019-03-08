@@ -7,8 +7,9 @@ How to use
 (1) compile caffe: make all -j8.
 (2) compile matcaffe: make matcaffe.
 2. Put training data into: ./matlab/train/data. There are a few images in that folder already.
-3. Run train.m in ./matlab/train
-4. testing model and scripts will come soon.
+3. Run train.m in ./matlab/train for training
+4. Run test.m in ./matlab/test for testing
+5. Download caffe model for testing in https://drive.google.com/file/d/1uZ9QcUR1R7k5nFeCj4D7IZopJYr5b37Q/view?usp=sharing
 
 Thanks Sifei Liu to provide her matcaffe code from [1] and spatial rnn implementation from [2]
 [1] Sifei Liu and et. al. Multi-Objective Convolutional Learning for Face Labeling, CVPR 2015
